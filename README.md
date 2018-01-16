@@ -103,7 +103,12 @@ This file contains a number of front-end interview questions that can be used wh
 * what is scope
 * why the functions are used in Javascript
 * Explain how `this` works in JavaScript
+* Types of bindings in Javascript
+* what is a prototype
+* Types of mutations on Object (seal, preventExtensions, freeze, constant)
 * Explain how prototypal inheritance works
+* what is a constructor
+* explian super() in Javascript
 * What do you think of AMD vs CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
