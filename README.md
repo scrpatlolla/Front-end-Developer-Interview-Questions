@@ -99,6 +99,9 @@ This file contains a number of front-end interview questions that can be used wh
 #### JS Questions:
 
 * Explain event delegation
+* Explain behaviour delegation
+* what is scope
+* why the functions are used in Javascript
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
